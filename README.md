@@ -38,17 +38,17 @@ In this step, we segment customers based on purchase frequency, purchase recency
 #### Segmentation by Purchase Frequency
 
     Question: How often do customers make purchases?
-        Answer: Customers are categorized as "Frequent," "Regular," or "Infrequent" based on their purchase frequency.
+    Answer: Customers are categorized as "Frequent," "Regular," or "Infrequent" based on their purchase frequency.
 
 #### Segmentation by Purchase Recency
 
     Question: How recently did customers make their last purchase?
-        Answer: Customers are categorized as "Recent," "Recent but not so Recent," or "Not Recent" based on their last purchase month or quarter.
+    Answer: Customers are categorized as "Recent," "Recent but not so Recent," or "Not Recent" based on their last purchase month or quarter.
 
 #### Segmentation by Purchase Value
 
     Question: What is the monetary value of customer purchases?
-        Answer: Customers are categorized as "High-Value," "Medium-Value," or "Low-Value" based on the total monetary value of their purchases.
+    Answer: Customers are categorized as "High-Value," "Medium-Value," or "Low-Value" based on the total monetary value of their purchases.
 
 ### Step 2: Behavioral Analysis
 
@@ -57,25 +57,27 @@ In this step, we dive deeper into customer behavior within each segment.
 #### Customer Purchase Patterns
 
 We analyze customer purchase patterns within each segment, identifying common product categories, purchase timing, and average transaction values.
+
     Question: What are the common product categories that customers purchase?
-        Answer: This analysis identifies the product categories that are frequently purchased by customers within each segment.
+    Answer: This analysis identifies the product categories that are frequently purchased by customers within each segment.
 
     Question: What is the timing of customer purchases?
-        Answer: We analyze when customers tend to make purchases, which helps identify purchase timing patterns.
+    Answer: We analyze when customers tend to make purchases, which helps identify purchase timing patterns.
 
     Question: What is the average transaction value for customers in each segment?
-        Answer: This analysis provides insights into the average transaction value for customers within each segment, helping to understand their spending habits.
+    Answer: This analysis provides insights into the average transaction value for customers within each segment, helping to understand their spending habits.
 
 #### Customer Lifetime Value (CLV)
 
 We calculate the CLV for each customer segment by projecting future revenue based on historical data.
+    
     Question: What is the projected future revenue from each customer segment based on historical data?
-        Answer: CLV is calculated for each customer segment by projecting future revenue based on their past transaction history.
+    Answer: CLV is calculated for each customer segment by projecting future revenue based on their past transaction history.
 
 #### Recommendation Engine
 
     Question: How can we suggest products to customers based on their past purchase behavior?
-        Answer: A simple recommendation engine is implemented to suggest products to customers based on their purchase history and the behavior of similar customers.
+    Answer: A simple recommendation engine is implemented to suggest products to customers based on their purchase history and the behavior of similar customers.
 
 ## Project Structure
 
