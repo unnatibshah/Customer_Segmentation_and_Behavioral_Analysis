@@ -1,4 +1,4 @@
-# Customer Segmentation and Behavioral Analysis Project
+# Customer Segmentation and Behavioral Analysis
 
 ## Table of Contents
 
