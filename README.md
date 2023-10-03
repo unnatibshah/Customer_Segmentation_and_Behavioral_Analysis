@@ -14,12 +14,6 @@
   - [Customer Purchase Patterns](#customer-purchase-patterns)
   - [Customer Lifetime Value (CLV)](#customer-lifetime-value-clv)
   - [Recommendation Engine](#recommendation-engine)
-- [Extensive README](#extensive-readme)
-  - [Introduction](#introduction)
-  - [Project Overview](#project-overview)
-  - [Database Schema](#database-schema)
-  - [Step 1: Customer Segmentation and Behavioral Analysis](#step-1-customer-segmentation-and-behavioral-analysis)
-  - [Step 2: Behavioral Analysis](#step-2-behavioral-analysis)
 - [Usage](#usage)
 
 
